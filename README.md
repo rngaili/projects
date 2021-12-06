@@ -1,3 +1,3 @@
 # Projects
 
-Welcome to my Project Repo where I keep everthing I have previously worked on!
+Welcome to my Project repo where I keep everything I have previously worked on!
